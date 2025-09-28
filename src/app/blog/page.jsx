@@ -1,5 +1,5 @@
 import AllBlogs from '@/components/page_title/AllBlogs'
-import Page_title from '@/components/page_title/page_title'
+import Page_title from '@/components/page_title/Page_title'
 import React from 'react'
 
 const page = () => {
